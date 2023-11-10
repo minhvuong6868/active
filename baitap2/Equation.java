@@ -35,7 +35,7 @@ public class Equation {
     }
 
     public void setB() {
-        this.b = b;
+        // this.b = b;
     }
 
     public double getC() {
